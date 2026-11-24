@@ -1,0 +1,2 @@
+# fix_tecno_fingerprint
+fix_tecno_fingerprint
