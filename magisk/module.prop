@@ -1,0 +1,6 @@
+id=systemui_transsion_hbm
+name=SystemUI Transsion HBM (UDFPS)
+version=v1.0
+versionCode=1
+author=systemui_hbm
+description=SystemUI с Transsion UDFPS HBM (включён по умолчанию). Требуется APK с подписью v2+.

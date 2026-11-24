@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transsion UDFPS HBM</string>
+    <string name="app_desc">HBM for under-display fingerprint on Transsion devices (LSPosed module)</string>
+
+    <string-array name="xposedscope">
+        <item>com.android.systemui</item>
+    </string-array>
+</resources>
